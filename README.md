@@ -26,9 +26,14 @@ I can't say this any other way: Nana is badass. This close to 4 hour crash cours
 [![Watch the video](https://img.youtube.com/vi/X48VuDVv0do/0.jpg)](https://youtu.be/X48VuDVv0do) 
 
 This was the first ever YouTube clip that got me so good, that I took the full 4 hours in a single serving. 5/5 it's a must see if you want a flash forward learning experience or even a simple refresher. Time and patience is a prerequisite for this one, but if you really want to learn something, no doubt you have to commit to it!
+</details>
 
+<details>
+<summary><b>Cheat Sheet K8S Administrator Course</b></summary><br>
+
+After you watched the previous video, it's time to share <b>[Nana's K8S Admin Course Repo](https://gitlab.com/nanuchi/k8s-administrator-course)</b>. It's a gorgeous and well organized repo with shortcuts to different things. Another good refresher.
 </details></details>
-
+</details>
 <details><summary><img src=https://img.shields.io/badge/Microsoft%20Teams-505AC9?&style=for-the-badge&logo=microsoft-teams&logoColor=white alt="Microsoft Teams Section Logo"></summary>
 <details>
 <summary><b>Teams Rooms Setup Step by Step</b></summary>
