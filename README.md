@@ -17,14 +17,18 @@ I'm a 30 yo DevOps wannabe
         :beginner: TBD <br>
 
 <h2 align="center">Learning repository</h2>
+<details>
+<summary><img src=https://img.shields.io/badge/kubernetes-239120?&style=for-the-badge&logo=kubernetes&logoColor=white alt="Kubernetes Section Logo"></summary><br>
+<details>
+<summary><b>4 Hours Kubernetes Bootcamp with Nana</b></summary><br>
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-239120?&style=for-the-badge&logo=kubernetes&logoColor=white)<br>
 Nana is badass. This close to 4 hour crash course will teach you all the base concepts that are needed to understand what is a Kubernetes cluster, what it does and how it is used accordingly. The best thing is the [repo](https://gitlab.com/nanuchi/youtube-tutorial-series) that Nana shared, so the code from the entire video can be accessed afterwards. 
 
 I oftenly use this repo as a reference, so it might be a good tip to bookmark this!
 
-[![Watch the video](https://img.youtube.com/vi/X48VuDVv0do/0.jpg  )](https://youtu.be/X48VuDVv0do) 
+[![Watch the video](https://img.youtube.com/vi/X48VuDVv0do/0.jpg)](https://youtu.be/X48VuDVv0do) 
 
+</details></details>
 
 ![MicrosoftTeams](https://img.shields.io/badge/Microsoft%20Teams-505AC9?&style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
@@ -38,9 +42,3 @@ I oftenly use this repo as a reference, so it might be a good tip to bookmark th
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)<br>
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)<br>
 
-https://www.youtube.com/watch?v=X48VuDVv0do
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X48VuDVv0do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-https://img.youtube.com/vi/X48VuDVv0do/default.jpg  
