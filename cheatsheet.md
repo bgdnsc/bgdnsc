@@ -19,7 +19,17 @@ Install Terraform & define aliases for shortcuts: `TF` and `TFF`. <br>
 
 ```powershell
 choco install terraform
+```
 
+## Installing the functions to each PS session
+
+```powershell
+notepad $PROFILE.CurrentUserAllHosts
+```
+
+In the freshly opened notepad, dump the following code:
+
+```powershell
 New-Alias -Name "tf" -Value "terraform"
 function New-CWTerraformFormat { tf fmt -recursive }
 New-Alias -Name "tff" -Value New-CWTerraformFormat
