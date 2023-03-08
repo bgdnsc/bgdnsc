@@ -54,3 +54,44 @@ This was useful! It's a good overview for a Vendor Agnostic approach and looks o
 ![Microsoft word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)<br>
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)<br>
 
+## List of useful videos for DevOps
+
+Documentare interesante: 
+        Prometheus - cum, de unde si de ce a aparut https://www.youtube.com/watch?v=rT4fJNbfe14 
+        Kubernetes - cum, de unde si de ce a aparut (part 1): https://www.youtube.com/watch?v=BE77h7dmoQU
+        Kubernetes - cum, de unde si de ce a aparut (part 2): https://www.youtube.com/watch?v=318elIq37PE
+
+Nana:
+        What is DevOps? https://www.youtube.com/watch?v=0yWAtQ6wYNM
+        Microservices explained https://www.youtube.com/watch?v=rv4LlmLmVWk 
+        From Zero to DevOps Engineer https://www.youtube.com/watch?v=G_nVMUtaqCk 
+        Docker Crash Course for Begginers https://www.youtube.com/watch?v=pg19Z8LL06w
+        GitOps https://www.youtube.com/watch?v=f5EpcWp0THw
+        Azure DevOps https://www.youtube.com/watch?v=4BibQ69MD8c
+
+KodeKloud:
+        Demistifying GitOps: https://www.youtube.com/watch?v=GlG6Xr2HH1g
+        Terraform Basics: https://www.youtube.com/watch?v=mzgfHmDRamk
+        Helm Basics: https://www.youtube.com/watch?v=kJscDZfHXrQ
+        LENS + Kubernetes management: https://www.youtube.com/watch?v=VOruC2tQbmw
+
+John Savill
+        Azure Masterclass episode 11 -- Infra as code & DevOps https://www.youtube.com/watch?v=9GXKjDJNB9s
+
+
+Techno Tim @ Kubernetes stuff
+        Traefik & Cert Manager https://www.youtube.com/watch?v=G4CmbYL9UPg
+        Grafana & Prometheus https://www.youtube.com/watch?v=fzny5uUaAeY
+        Flux https://www.youtube.com/watch?v=PFLimPh5-wo
+
+That Devops Guy:
+        Kubernetes Terminology: https://www.youtube.com/watch?v=Ero82CCQIGk
+        Understanding Kubernetes RBAC: https://www.youtube.com/watch?v=jvhKOAyD8S8
+        Running K8S locally through KIND: https://www.youtube.com/watch?v=m-IlbCgSzkc
+        HELM introduction (for k8s): https://www.youtube.com/watch?v=5_J7RWLLVeQ 
+        Kubernetes autoscaling: https://www.youtube.com/watch?v=jM36M39MA3I 
+        Intro to Azure Kubernetes Services (AKS): https://www.youtube.com/watch?v=eyvLwK5C2dw 
+        Terraform with Azure Kubernetes Services (AKS): https://www.youtube.com/watch?v=bHjS4xqwc9A
+
+Shikki (angajat Endava):
+        Tot canalul e bun: https://www.youtube.com/@ShikkiSolutions/videos
